@@ -1,0 +1,4 @@
+Current Weather:
+Current Temperature: 37.5°F
+High: 44.5°F
+Low: 36.3°F
