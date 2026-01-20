@@ -36,4 +36,6 @@ dependencies = [
     "uvicorn[standard]>=0.38.0",
     "vertexai>=1.71.1",
     "wikipedia>=1.4.0",
+    "pydantic>=2.11.7",
+    "pydantic-ai>=0.4.8"
 ]
